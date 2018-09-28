@@ -1,0 +1,13 @@
+export const ORG_INFO = 'ORG_INFO'
+export const NAMESPASE = 'org/'
+export const GET_ORG_INFO = NAMESPASE + 'GET_ORG_INFO'
+export const ORG_INFO_LIST = NAMESPASE + 'ORG_INFO_LIST'
+export const SAVE_ORG_NAME = NAMESPASE + 'SAVE_ORG_NAME'
+export const JOIN_ORG_LIST = NAMESPASE + 'JOIN_ORG_LIST' // 我加入的群
+export const MY_ORG_LIST = NAMESPASE + 'MY_ORG_LIST' // 我创建的群
+export const MANAGER_ORG_LIST = NAMESPASE + 'MANAGER_ORG_LIST' // 我管理的群
+export const GET_JOIN_ORG_LIST = NAMESPASE + 'GET_JOIN_ORG_LIST' // 我加入的群
+export const GET_MY_ORG_LIST = NAMESPASE + 'GET_MY_ORG_LIST' // 我创建的群
+export const GET_MANAGER_ORG_LIST = NAMESPASE + 'GET_MANAGER_ORG_LIST' // 我管理的群
+export const VIP_INFO = NAMESPASE + 'VIP_INFO'
+export const SET_VIP_INFO = NAMESPASE + 'SET_VIP_INFO'
